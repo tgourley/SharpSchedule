@@ -1,0 +1,9 @@
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\bin\Debug\netcoreapp2.0\SharpSchedule.deps.json
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\bin\Debug\netcoreapp2.0\SharpSchedule.dll
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\bin\Debug\netcoreapp2.0\SharpSchedule.pdb
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.csprojResolveAssemblyReference.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.AssemblyInfoInputs.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.AssemblyInfo.cs
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.dll
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule\obj\Debug\netcoreapp2.0\SharpSchedule.pdb

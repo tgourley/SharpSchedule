@@ -1,0 +1,13 @@
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.CommandLine.deps.json
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.CommandLine.runtimeconfig.json
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.CommandLine.runtimeconfig.dev.json
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.CommandLine.dll
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.CommandLine.pdb
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.dll
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\bin\Debug\netcoreapp2.0\SharpSchedule.pdb
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.csprojResolveAssemblyReference.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.AssemblyInfoInputs.cache
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.AssemblyInfo.cs
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.dll
+C:\Users\Trey Gourley\Dropbox\SVN\circularsoft\SharpSchedule\SharpSchedule.CommandLine\obj\Debug\netcoreapp2.0\SharpSchedule.CommandLine.pdb
